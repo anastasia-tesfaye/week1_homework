@@ -2,3 +2,4 @@ anastasia
 learning how to code in Ruby!
 Technical Support at Braintree
 I love Korean dramas
+I want to build a simple Android game
